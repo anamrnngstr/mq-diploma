@@ -1,0 +1,39 @@
+.search {
+  margin-top: 60px;
+  display: flex;
+  width: 100%;
+} 
+
+.field {
+  height: 47px;
+  border: none;
+  box-sizing: border-box;
+  background-color: #f4f7f6;
+  padding: 0px 18px;
+  width: 222px;
+  font-size: 13px;
+}
+
+.field:focus {
+  outline: none;
+  border-color: #9b59b6;
+}
+
+.hidden{
+  display: none;
+}
+
+.search_button {
+  background-image: url("https://netology-code.github.io/html-2-diploma/sources/images/search.svg");
+  height: 47px;
+  width: 50px;
+  border: none;
+  background-color: #b59f5b;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: 16px;
+  cursor: pointer;
+}
+.search_button:hover {
+  background-color: #e2595e;
+}
