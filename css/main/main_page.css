@@ -93,6 +93,9 @@ a {
     padding: 64px 0;
   }
 
+  .aside {
+    margin-left: 100px;
+  }
 .content {
   max-width: 780px;
   margin: 0 auto;

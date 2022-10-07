@@ -1,5 +1,19 @@
+
+@import './header/header.css';
+@import './header/hamburger.css';
+@import './main/main_page.css';
+@import './main/aside_page.css';
+@import './main/search.css';
+@import './main/subscribe.css';
 @import './main/trends.css';
 @import './main/tags.css';
+@import './main/shop.css';
+@import './main/theme.css';
+@import './footer/copyright.css';
+@import './footer/footer.css';
+@import './main/popup.css';
+
+
 
 
 /*========================COMMON=================*/

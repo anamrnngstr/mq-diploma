@@ -2,13 +2,11 @@
   width: 100%;
   }
 
-  .short_news {
-    
-  }
   
   .aside_new_post {
     display: flex;
     margin-bottom: 25px;
+    align-items: center;
   }
   
   
@@ -51,6 +49,7 @@
   @media (min-width: 768px) {
     .aside {
       max-width: 280px;
+
     }
   }
  
